@@ -84,7 +84,7 @@ function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Test Tracker</Text>
+      <Text style={styles.title}>QA Tracker</Text>
 
       <View style={styles.inputContainer}>
         <TextInput

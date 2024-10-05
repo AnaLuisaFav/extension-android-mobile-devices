@@ -29,19 +29,13 @@ O **QA Tracker App** é uma aplicação simples em [React Native](https://reactn
    git clone https://github.com/AnaLuisaFav/extension-android-mobile-devices.git
    ```
 
-2. Acesse o diretório do projeto:
-
-   ```bash
-   cd extension-android-mobile-devices
-   ```
-
-3. Instale as dependências:
+2. Instale as dependências:
 
    ```bash
    npm install
    ```
 
-4. Execute o projeto:
+3. Execute o projeto:
 
    Para iOS:
 
