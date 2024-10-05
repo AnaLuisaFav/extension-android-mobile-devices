@@ -3,19 +3,19 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff",
-        "foregroundImage": "./assets/adaptive-icon.png"
+        "foregroundImage": "./assets/qaicon.png"
       }
     },
-    "icon": "./assets/icon.png",
+    "icon": "./assets/qaicon.png",
     "ios": {
       "supportsTablet": true
     },
-    "name": "QaTracker",
+    "name": "Qa Tracker",
     "orientation": "portrait",
-    "slug": "QaTracker",
+    "slug": "Qa Tracker",
     "splash": {
       "backgroundColor": "#ffffff",
-      "image": "./assets/splash.png",
+      "image": "./assets/qaicon.png",
       "resizeMode": "contain"
     },
     "userInterfaceStyle": "light",
