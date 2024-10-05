@@ -13,7 +13,7 @@ O **QA Tracker App** é uma aplicação simples em [React Native](https://reactn
 - **Salvar e Recuperar Testes:** Os testes são salvos localmente usando `AsyncStorage`, permitindo que os dados persistam entre reinicializações do aplicativo.
 - **Resetar Testes:** Há uma funcionalidade para limpar todos os testes salvos, retornando o app ao estado inicial.
 
-## ⏯️ Como Executar o Projeto
+## ⏯️ Como executar
 
 ### Pré-requisitos
 
